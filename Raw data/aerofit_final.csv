@@ -1,0 +1,181 @@
+Product,Age,Gender,Education,MaritalStatus,Usage,Fitness,Income,Miles,Fitness_comment,age_category,income_grp
+KP281,18,Male,14,Single,3,4,29562,112,Good Shape,Teenage,middle_class
+KP281,19,Male,15,Single,2,3,31836,75,Average Shape,Teenage,middle_class
+KP281,19,Female,14,Partnered,4,3,30699,66,Average Shape,Teenage,middle_class
+KP281,19,Male,12,Single,3,3,32973,85,Average Shape,Teenage,middle_class
+KP281,20,Male,13,Partnered,4,2,35247,47,Bad Shape,Teenage,middle_class
+KP281,20,Female,14,Partnered,3,3,32973,66,Average Shape,Teenage,middle_class
+KP281,21,Female,14,Partnered,3,3,35247,75,Average Shape,Adults,middle_class
+KP281,21,Male,13,Single,3,3,32973,85,Average Shape,Adults,middle_class
+KP281,21,Male,15,Single,5,4,35247,141,Good Shape,Adults,middle_class
+KP281,21,Female,15,Partnered,2,3,37521,85,Average Shape,Adults,middle_class
+KP281,22,Male,14,Single,3,3,36384,85,Average Shape,Adults,middle_class
+KP281,22,Female,14,Partnered,3,2,35247,66,Bad Shape,Adults,middle_class
+KP281,22,Female,16,Single,4,3,36384,75,Average Shape,Adults,middle_class
+KP281,22,Female,14,Single,3,3,35247,75,Average Shape,Adults,middle_class
+KP281,23,Male,16,Partnered,3,1,38658,47,Poor Shape,Adults,middle_class
+KP281,23,Male,16,Partnered,3,3,40932,75,Average Shape,Adults,middle_class
+KP281,23,Female,14,Single,2,3,34110,103,Average Shape,Adults,middle_class
+KP281,23,Male,16,Partnered,4,3,39795,94,Average Shape,Adults,middle_class
+KP281,23,Female,16,Single,4,3,38658,113,Average Shape,Adults,middle_class
+KP281,23,Female,15,Partnered,2,2,34110,38,Bad Shape,Adults,middle_class
+KP281,23,Male,14,Single,4,3,38658,113,Average Shape,Adults,middle_class
+KP281,23,Male,16,Single,4,3,40932,94,Average Shape,Adults,middle_class
+KP281,24,Female,16,Single,4,3,42069,94,Average Shape,Adults,middle_class
+KP281,24,Female,16,Partnered,5,5,44343,188,Excellent Shape,Adults,middle_class
+KP281,24,Male,14,Single,2,3,45480,113,Average Shape,Adults,middle_class
+KP281,24,Male,13,Partnered,3,2,42069,47,Bad Shape,Adults,middle_class
+KP281,24,Female,16,Single,4,3,46617,75,Average Shape,Adults,middle_class
+KP281,25,Female,14,Partnered,3,3,48891,75,Average Shape,Adults,middle_class
+KP281,25,Male,14,Partnered,2,3,45480,56,Average Shape,Adults,middle_class
+KP281,25,Female,14,Partnered,2,2,53439,47,Bad Shape,Adults,upper_middle_class
+KP281,25,Female,14,Partnered,3,3,39795,85,Average Shape,Adults,middle_class
+KP281,25,Male,16,Single,3,4,40932,113,Good Shape,Adults,middle_class
+KP281,25,Female,16,Partnered,2,2,40932,47,Bad Shape,Adults,middle_class
+KP281,25,Male,16,Single,3,3,43206,85,Average Shape,Adults,middle_class
+KP281,26,Female,14,Partnered,3,4,44343,113,Good Shape,Adults,middle_class
+KP281,26,Female,16,Partnered,4,3,52302,113,Average Shape,Adults,upper_middle_class
+KP281,26,Male,16,Partnered,2,2,53439,47,Bad Shape,Adults,upper_middle_class
+KP281,26,Male,16,Partnered,3,3,51165,85,Average Shape,Adults,upper_middle_class
+KP281,26,Female,16,Single,3,3,36384,66,Average Shape,Adults,middle_class
+KP281,26,Male,16,Partnered,4,4,44343,132,Good Shape,Adults,middle_class
+KP281,26,Male,16,Single,3,3,50028,85,Average Shape,Adults,upper_middle_class
+KP281,27,Female,14,Partnered,3,2,45480,66,Bad Shape,Adults,middle_class
+KP281,27,Male,16,Single,4,3,54576,85,Average Shape,Adults,upper_middle_class
+KP281,27,Female,14,Partnered,2,3,45480,56,Average Shape,Adults,middle_class
+KP281,28,Female,14,Partnered,2,3,46617,56,Average Shape,Adults,middle_class
+KP281,28,Female,16,Partnered,2,3,52302,66,Average Shape,Adults,upper_middle_class
+KP281,28,Male,14,Single,3,3,52302,103,Average Shape,Adults,upper_middle_class
+KP281,28,Female,14,Partnered,3,3,54576,94,Average Shape,Adults,upper_middle_class
+KP281,28,Male,14,Single,4,3,54576,113,Average Shape,Adults,upper_middle_class
+KP281,28,Female,16,Partnered,3,3,51165,56,Average Shape,Adults,upper_middle_class
+KP281,29,Male,18,Partnered,3,3,68220,85,Average Shape,Adults,upper_middle_class
+KP281,29,Female,14,Partnered,2,2,46617,38,Bad Shape,Adults,middle_class
+KP281,29,Female,16,Partnered,4,3,50028,94,Average Shape,Adults,upper_middle_class
+KP281,30,Male,14,Partnered,4,4,46617,141,Good Shape,Adults,middle_class
+KP281,30,Male,14,Single,3,3,54576,85,Average Shape,Adults,upper_middle_class
+KP281,31,Male,14,Partnered,2,2,54576,47,Bad Shape,Adults,upper_middle_class
+KP281,31,Female,14,Single,2,2,45480,47,Bad Shape,Adults,middle_class
+KP281,32,Female,14,Single,3,4,46617,113,Good Shape,Adults,middle_class
+KP281,32,Male,14,Partnered,4,3,52302,85,Average Shape,Adults,upper_middle_class
+KP281,33,Female,16,Single,2,2,55713,38,Bad Shape,Adults,upper_middle_class
+KP281,33,Female,16,Partnered,3,3,46617,85,Average Shape,Adults,middle_class
+KP281,34,Male,16,Single,4,5,51165,169,Excellent Shape,Adults,upper_middle_class
+KP281,34,Female,16,Single,2,2,52302,66,Bad Shape,Adults,upper_middle_class
+KP281,35,Male,16,Partnered,4,3,48891,85,Average Shape,Adults,middle_class
+KP281,35,Female,16,Partnered,3,3,60261,94,Average Shape,Adults,upper_middle_class
+KP281,35,Female,18,Single,3,3,67083,85,Average Shape,Adults,upper_middle_class
+KP281,36,Male,12,Single,4,3,44343,94,Average Shape,Middle Aged,middle_class
+KP281,37,Female,16,Partnered,3,3,37521,85,Average Shape,Middle Aged,middle_class
+KP281,38,Male,16,Partnered,3,3,46617,75,Average Shape,Middle Aged,middle_class
+KP281,38,Female,14,Partnered,2,3,54576,56,Average Shape,Middle Aged,upper_middle_class
+KP281,38,Male,14,Single,2,3,52302,56,Average Shape,Middle Aged,upper_middle_class
+KP281,38,Male,16,Partnered,3,3,56850,75,Average Shape,Middle Aged,upper_middle_class
+KP281,39,Male,16,Partnered,4,4,59124,132,Good Shape,Middle Aged,upper_middle_class
+KP281,40,Male,16,Partnered,3,3,61398,66,Average Shape,Middle Aged,upper_middle_class
+KP281,41,Male,16,Partnered,4,3,54576,103,Average Shape,Middle Aged,upper_middle_class
+KP281,43,Male,16,Partnered,3,3,53439,66,Average Shape,Middle Aged,upper_middle_class
+KP281,44,Female,16,Single,3,4,57987,75,Good Shape,Middle Aged,upper_middle_class
+KP281,46,Female,16,Partnered,3,2,60261,47,Bad Shape,Elderly,upper_middle_class
+KP281,47,Male,16,Partnered,4,3,56850,94,Average Shape,Elderly,upper_middle_class
+KP281,50,Female,16,Partnered,3,3,64809,66,Average Shape,Elderly,upper_middle_class
+KP481,19,Male,14,Single,3,3,31836,64,Average Shape,Teenage,middle_class
+KP481,20,Male,14,Single,2,3,32973,53,Average Shape,Teenage,middle_class
+KP481,20,Female,14,Partnered,3,3,34110,106,Average Shape,Teenage,middle_class
+KP481,20,Male,14,Single,3,3,38658,95,Average Shape,Teenage,middle_class
+KP481,21,Female,14,Partnered,5,4,34110,212,Good Shape,Adults,middle_class
+KP481,21,Male,16,Partnered,2,2,34110,42,Bad Shape,Adults,middle_class
+KP481,21,Male,12,Partnered,2,2,32973,53,Bad Shape,Adults,middle_class
+KP481,23,Male,14,Partnered,3,3,36384,95,Average Shape,Adults,middle_class
+KP481,23,Male,14,Partnered,3,3,38658,85,Average Shape,Adults,middle_class
+KP481,23,Female,16,Single,3,3,45480,95,Average Shape,Adults,middle_class
+KP481,23,Male,16,Partnered,4,3,45480,127,Average Shape,Adults,middle_class
+KP481,23,Female,16,Partnered,3,2,43206,74,Bad Shape,Adults,middle_class
+KP481,23,Female,14,Single,3,2,40932,53,Bad Shape,Adults,middle_class
+KP481,23,Male,16,Partnered,3,3,45480,64,Average Shape,Adults,middle_class
+KP481,24,Female,14,Single,3,2,40932,85,Bad Shape,Adults,middle_class
+KP481,24,Male,14,Single,3,4,48891,106,Good Shape,Adults,middle_class
+KP481,24,Female,16,Single,3,3,50028,106,Average Shape,Adults,upper_middle_class
+KP481,25,Female,14,Partnered,2,3,45480,85,Average Shape,Adults,middle_class
+KP481,25,Female,14,Single,3,4,43206,127,Good Shape,Adults,middle_class
+KP481,25,Male,16,Partnered,2,2,52302,42,Bad Shape,Adults,upper_middle_class
+KP481,25,Female,14,Partnered,5,3,47754,106,Average Shape,Adults,middle_class
+KP481,25,Male,14,Single,3,3,45480,95,Average Shape,Adults,middle_class
+KP481,25,Female,14,Single,2,3,43206,64,Average Shape,Adults,middle_class
+KP481,25,Male,14,Partnered,4,3,45480,170,Average Shape,Adults,middle_class
+KP481,25,Male,14,Partnered,3,4,43206,106,Good Shape,Adults,middle_class
+KP481,25,Male,16,Partnered,2,3,50028,53,Average Shape,Adults,upper_middle_class
+KP481,25,Female,14,Single,2,2,45480,42,Bad Shape,Adults,middle_class
+KP481,25,Male,14,Single,4,3,48891,127,Average Shape,Adults,middle_class
+KP481,26,Female,16,Partnered,4,3,45480,85,Average Shape,Adults,middle_class
+KP481,26,Female,16,Single,4,4,50028,127,Good Shape,Adults,upper_middle_class
+KP481,26,Male,16,Single,4,3,51165,106,Average Shape,Adults,upper_middle_class
+KP481,27,Male,14,Single,4,2,45480,53,Bad Shape,Adults,middle_class
+KP481,29,Female,14,Partnered,3,3,51165,95,Average Shape,Adults,upper_middle_class
+KP481,30,Female,14,Single,3,3,57987,74,Average Shape,Adults,upper_middle_class
+KP481,30,Female,13,Single,4,3,46617,106,Average Shape,Adults,middle_class
+KP481,31,Male,16,Partnered,3,3,52302,95,Average Shape,Adults,upper_middle_class
+KP481,31,Female,16,Partnered,2,3,51165,64,Average Shape,Adults,upper_middle_class
+KP481,31,Female,18,Single,2,1,65220,21,Poor Shape,Adults,upper_middle_class
+KP481,32,Male,16,Single,4,3,60261,127,Average Shape,Adults,upper_middle_class
+KP481,32,Male,16,Partnered,3,3,53439,95,Average Shape,Adults,upper_middle_class
+KP481,33,Male,13,Partnered,4,4,53439,170,Good Shape,Adults,upper_middle_class
+KP481,33,Female,16,Partnered,2,3,50028,85,Average Shape,Adults,upper_middle_class
+KP481,33,Male,16,Partnered,3,3,51165,95,Average Shape,Adults,upper_middle_class
+KP481,33,Female,16,Partnered,5,3,53439,95,Average Shape,Adults,upper_middle_class
+KP481,33,Female,18,Single,3,4,47754,74,Good Shape,Adults,middle_class
+KP481,34,Female,16,Partnered,4,3,64809,95,Average Shape,Adults,upper_middle_class
+KP481,34,Male,16,Partnered,3,4,59124,85,Good Shape,Adults,upper_middle_class
+KP481,34,Male,15,Single,3,3,67083,85,Average Shape,Adults,upper_middle_class
+KP481,35,Female,14,Partnered,3,2,52302,53,Bad Shape,Adults,upper_middle_class
+KP481,35,Male,16,Partnered,3,2,53439,53,Bad Shape,Adults,upper_middle_class
+KP481,35,Female,16,Single,3,2,50028,64,Bad Shape,Adults,upper_middle_class
+KP481,35,Male,16,Partnered,3,3,53439,95,Average Shape,Adults,upper_middle_class
+KP481,37,Female,16,Partnered,2,3,48891,85,Average Shape,Middle Aged,middle_class
+KP481,38,Female,16,Partnered,4,3,62535,85,Average Shape,Middle Aged,upper_middle_class
+KP481,38,Male,16,Partnered,3,3,59124,106,Average Shape,Middle Aged,upper_middle_class
+KP481,40,Female,16,Partnered,3,3,61398,85,Average Shape,Middle Aged,upper_middle_class
+KP481,40,Female,16,Single,3,3,57987,85,Average Shape,Middle Aged,upper_middle_class
+KP481,40,Male,16,Partnered,3,3,64809,95,Average Shape,Middle Aged,upper_middle_class
+KP481,45,Male,16,Partnered,2,2,54576,42,Bad Shape,Middle Aged,upper_middle_class
+KP481,48,Male,16,Partnered,2,3,57987,64,Average Shape,Elderly,upper_middle_class
+KP781,22,Male,14,Single,4,3,48658,106,Average Shape,Adults,middle_class
+KP781,22,Male,16,Single,3,5,54781,120,Excellent Shape,Adults,upper_middle_class
+KP781,22,Male,18,Single,4,5,48556,200,Excellent Shape,Adults,middle_class
+KP781,23,Male,16,Single,4,5,58516,140,Excellent Shape,Adults,upper_middle_class
+KP781,23,Female,18,Single,5,4,53536,100,Good Shape,Adults,upper_middle_class
+KP781,23,Male,16,Single,4,5,48556,100,Excellent Shape,Adults,middle_class
+KP781,24,Male,16,Single,4,5,61006,100,Excellent Shape,Adults,upper_middle_class
+KP781,24,Male,18,Partnered,4,5,57271,80,Excellent Shape,Adults,upper_middle_class
+KP781,24,Female,16,Single,5,5,52291,200,Excellent Shape,Adults,upper_middle_class
+KP781,24,Male,16,Single,5,5,49801,160,Excellent Shape,Adults,middle_class
+KP781,25,Male,16,Partnered,4,5,49801,120,Excellent Shape,Adults,middle_class
+KP781,25,Male,16,Partnered,4,4,62251,160,Good Shape,Adults,upper_middle_class
+KP781,25,Female,18,Partnered,5,5,61006,200,Excellent Shape,Adults,upper_middle_class
+KP781,25,Male,18,Partnered,4,3,64741,100,Average Shape,Adults,upper_middle_class
+KP781,25,Male,18,Partnered,6,4,70966,180,Good Shape,Adults,upper_middle_class
+KP781,25,Male,18,Partnered,6,5,75946,240,Excellent Shape,Adults,high_class
+KP781,25,Male,20,Partnered,4,5,74701,170,Excellent Shape,Adults,upper_middle_class
+KP781,26,Female,21,Single,4,3,69721,100,Average Shape,Adults,upper_middle_class
+KP781,26,Male,16,Partnered,5,4,64741,180,Good Shape,Adults,upper_middle_class
+KP781,27,Male,16,Partnered,4,5,83416,160,Excellent Shape,Adults,high_class
+KP781,27,Male,18,Single,4,3,88396,100,Average Shape,Adults,high_class
+KP781,27,Male,21,Partnered,4,4,90886,100,Good Shape,Adults,high_class
+KP781,28,Female,18,Partnered,6,5,92131,180,Excellent Shape,Adults,high_class
+KP781,28,Male,18,Partnered,7,5,77191,180,Excellent Shape,Adults,high_class
+KP781,28,Male,18,Single,6,5,88396,150,Excellent Shape,Adults,high_class
+KP781,29,Male,18,Single,5,5,52290,180,Excellent Shape,Adults,upper_middle_class
+KP781,29,Male,14,Partnered,7,5,85906,300,Excellent Shape,Adults,high_class
+KP781,30,Female,16,Partnered,6,5,90886,280,Excellent Shape,Adults,high_class
+KP781,30,Male,18,Partnered,5,4,103336,160,Good Shape,Adults,high_class
+KP781,30,Male,18,Partnered,5,5,99601,150,Excellent Shape,Adults,high_class
+KP781,31,Male,16,Partnered,6,5,89641,260,Excellent Shape,Adults,high_class
+KP781,33,Female,18,Partnered,4,5,95866,200,Excellent Shape,Adults,high_class
+KP781,34,Male,16,Single,5,5,92131,150,Excellent Shape,Adults,high_class
+KP781,35,Male,16,Partnered,4,5,92131,360,Excellent Shape,Adults,high_class
+KP781,38,Male,18,Partnered,5,5,104581,150,Excellent Shape,Middle Aged,high_class
+KP781,40,Male,21,Single,6,5,83416,200,Excellent Shape,Middle Aged,high_class
+KP781,42,Male,18,Single,5,4,89641,200,Good Shape,Middle Aged,high_class
+KP781,45,Male,16,Single,5,5,90886,160,Excellent Shape,Middle Aged,high_class
+KP781,47,Male,18,Partnered,4,5,104581,120,Excellent Shape,Elderly,high_class
+KP781,48,Male,18,Partnered,4,5,95508,180,Excellent Shape,Elderly,high_class
