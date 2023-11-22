@@ -25,8 +25,8 @@ on the journey to a healthier, fitter lifestyle. Elevate your fitness experience
 For each AeroFit treadmill product, construct two-way contingency tables and compute all conditional and marginal probabilities along with their insights/impact on the business.
 
 ## 📝 Project Report
-- You can access the complete project python file here - [Python]()
-- You can access the complete project in pdf format here - [Report]()
+- You can access the complete project python file here - [Python](https://github.com/KasiMuthuveerappan/Aerofit/blob/main/Aerofit-Analysis/aerofit-k.ipynb)
+- You can access the complete project in pdf format here - [Report](https://github.com/KasiMuthuveerappan/Aerofit/blob/main/Aerofit-Analysis/aerofit-k.pdf)
 
 
 ## 👀 About Data
